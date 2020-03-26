@@ -7,5 +7,5 @@ import tk.mybatis.mapper.common.MySqlMapper;
 *自己的Mapper，
 * 该接口不能被扫描到，否则会出错
  */
-public interface MyMapper {
+public interface MyMapper<T> extends Mapper<T>,MySqlMapper<T> {
 }
