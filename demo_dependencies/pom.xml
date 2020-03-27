@@ -37,6 +37,7 @@
         <cloud-hystrix.version>2.0.1.RELEASE</cloud-hystrix.version>
 
         <!-- commons settings -->
+        <!-- 修改mysql版本为5.5.58   8.0.12 -->
         <kyro.version>0.42</kyro.version>
         <mysql.version>8.0.12</mysql.version>
     </properties>
@@ -290,23 +291,6 @@
             </snapshots>
         </repository>
 
-        <!--<repository>
-            <id>spring-snapshots</id>
-            <name>Spring Snapshots</name>
-            <url>https://repo.spring.io/snapshot</url>
-            <snapshots>
-                <enabled>true</enabled>
-            </snapshots>
-        </repository>
-
-        <repository>
-            <id>spring-milestones</id>
-            <name>Spring Milestones</name>
-            <url>https://repo.spring.io/milestone</url>
-            <snapshots>
-                <enabled>false</enabled>
-            </snapshots>
-        </repository>-->
     </repositories>
 
     <pluginRepositories>
