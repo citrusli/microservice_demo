@@ -10,6 +10,8 @@
         <option value="$PROJECT_DIR$/demo_commons/pom.xml" />
         <option value="$PROJECT_DIR$/demo_commons_domain/pom.xml" />
         <option value="$PROJECT_DIR$/demo_commons_mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/demo_databases/pom.xml" />
+        <option value="$PROJECT_DIR$/demo_static_backend/pom.xml" />
       </list>
     </option>
   </component>

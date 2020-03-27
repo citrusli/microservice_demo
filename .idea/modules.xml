@@ -5,7 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/demo_commons/demo_commons.iml" filepath="$PROJECT_DIR$/demo_commons/demo_commons.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo_commons_domain/demo_commons_domain.iml" filepath="$PROJECT_DIR$/demo_commons_domain/demo_commons_domain.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo_commons_mapper/demo_commons_mapper.iml" filepath="$PROJECT_DIR$/demo_commons_mapper/demo_commons_mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_databases/demo_databases.iml" filepath="$PROJECT_DIR$/demo_databases/demo_databases.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo_dependencies/demo_dependencies.iml" filepath="$PROJECT_DIR$/demo_dependencies/demo_dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_static_backend/demo_static_backend.iml" filepath="$PROJECT_DIR$/demo_static_backend/demo_static_backend.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/microservice_demo.iml" filepath="$PROJECT_DIR$/.idea/microservice_demo.iml" />
     </modules>
   </component>
